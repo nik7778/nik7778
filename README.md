@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nik7778
-- 👀 I’m interested in codding, learning, sharing
-- 🌱 I’m currently learning cybersecurity, unity, other
+- 👀 I’m interested in coding, learning, sharing
+- 🌱 I’m currently learning cybersecurity, unity, mobile development, and other
 - 💞️ I’m looking to collaborate on different IT projects
 - 📫 How to reach me: nick.blc.89@gmail.com
 
